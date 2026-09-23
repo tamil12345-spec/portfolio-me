@@ -20,7 +20,7 @@ export default function About() {
       icon1: "./assets/edu-icon.png",
       icon2: "./assets/edu-icon-dark.png",
       description:
-        "B.Tech in Information Technology, Hindustan College of Engineering and Technology, Coimbatore",
+        "B.SC,Batchlor of science,Vivekanandha arts and science college,salem",
     },
     {
       name: "Projects",
