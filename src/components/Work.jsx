@@ -15,10 +15,10 @@ export default function Work() {
 Tour Booking App is a scalable full-stack travel management application that enables users to explore destinations, discover tour packages, and book trips seamlessly. It provides features such as destination browsing, package details, booking management, and user profiles for a smooth travel experience.The platform supports multiple roles including users, tour organizers, and admins, with dedicated dashboards for managing bookings, tour packages, users, and platform activities.The system integrates secure online payment processing, allowing users to complete bookings safely and track their booking status. Organizers can create and manage tour packages, monitor bookings, and manage customer details, while admins oversee overall platform activity.
   🔹 Tech Stack
 React, TailwindCSS, Redux Toolkit, Node.js, Express.js, MongoDB, Stripe API`,
-      link: "https://splendorous-cat-9f9c5f.netlify.app/",
-      github: "https://github.com/JayapriyaSiakumar/GoEvent",
-      backendLink: "https://goevent-backend.onrender.com/",
-      backendGithub: "https://splendorous-cat-9f9c5f.netlify.app/",
+      link: "https://harmonious-meringue-959647.netlify.app/",
+      github: "https://github.com/tamil12345-spec/tour-frontend.git",
+      backendLink: "https://tour-backend-8c7w.onrender.com",
+      backendGithub: "https://github.com/tamil12345-spec/tour-backend.git",
       tech: ["React", "Tailwind", "Node", "MongoDB", "Context API"],
     },
 
@@ -70,10 +70,10 @@ CORS
 React Hot Toast (notifications UI)
 
 REST API`,   
-      link: "https://wchatapp.netlify.app/",
-      github: "https://github.com/JayapriyaSiakumar/ChattingApp",
-      backendLink: "https://chatingapp-backend-5iaz.onrender.com/",
-      backendGithub: "https://github.com/JayapriyaSiakumar/ChatingApp-Backend",
+      link: "https://splendorous-cat-9f9c5f.netlify.app/",
+      github: "https://github.com/tamil12345-spec/foodie.git",
+      backendLink: "https://food-back-0l68.onrender.com",
+      backendGithub: "https://github.com/tamil12345-spec/food-back.git",
       tech: ["React", "Context API", "Node.js", "Express.js", "MongoDB", "Razorpay"],
     },
     
@@ -89,10 +89,10 @@ REST API`,
 Smart Expense Tracker is a responsive financial management application that helps users efficiently track and manage their income and expenses. It provides an intuitive dashboard with real-time updates, category-based filtering, and visual insights to help users understand their spending patterns.Users can easily add, edit, and delete transactions while monitoring their total income, expenses, and balance. Interactive charts provide a clear overview of spending across different categories and financial trends.The application uses Context API for efficient state management and Tailwind CSS to create a clean, responsive, and user-friendly interface across different devices.
 🔹 Tech Stack
 React, Context API, Recharts, TailwindCSS`,
-      link: "https://smart-expense-tracker-frontend-lovat.vercel.app/",
+      link: " https://capable-piroshki-687510.netlify.app/login",
       github:
         "https://github.com/tamil12345-spec/Smart-Expense-Tracker-frontend.git",
-      backendLink: "https://smartexpensetracker-backend-4zyg.onrender.com/",
+      backendLink: "https://smart-expense-tracker-backend-8uns.onrender.com",
       backendGithub:
         "https://github.com/tamil12345-spec/Smart-Expense-Tracker-backend.git",
       tech: ["React", "Context API", "Recharts", "TailwindCSS","Node.js", "MongoDB"],

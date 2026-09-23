@@ -1,6 +1,6 @@
 # Read Me
 
-I'm Jayapriya, a full-stack developer based in India. I have a passion for building web applications and frontend for web apps.
+I'm Sri Tamilarasi, a full-stack developer based in India. I have a passion for building web applications and frontend for web apps.
 
 ## My Skills
 
@@ -20,4 +20,4 @@ I am currently looking to expand my skills in web development and to take on mor
 
 ## How to Reach Me
 
-I can be reached through my email address [jayapriyaeswari05@gmail.com](mailto:jayapriyaeswari05@gmail.com) or through my social media profiles on [LinkedIn](https://www.linkedin.com/in/jayapriya-s-5b2b14191/) and [GitHub](https://github.com/JayapriyaSiakumar).
+I can be reached through my email address [tamilarasi3086@gmail.com](mailto:tamilarasi3086@gmail.com) or through my social media profiles on [LinkedIn](https://www.linkedin.com/in/sritamilarasi-thangarasu-a4198a423/) and [GitHub](https://github.com/tamil12345-spec).

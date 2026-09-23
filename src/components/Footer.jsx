@@ -53,10 +53,10 @@ export default function Footer() {
         </p>
         <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
           <li>
-            <a href="https://github.com/JayapriyaSiakumar">GitHub</a>
+            <a href="https://github.com/tamil12345-spec">GitHub</a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/jayapriya-s-a4ab26115/">
+            <a href="https://www.linkedin.com/in/sritamilarasi-thangarasu-a4198a423/">
               LinkedIn
             </a>
           </li>
